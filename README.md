@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bittencourt-26
-- 👀 I’m interested in devlopinh high-quality apps :)
+- 👀 I’m interested in devloping high-quality apps :)
 - 🌱 I’m currently learning Dart/Flutter
 - 💞️ I’m looking to collaborate on open sources projects
 - 📫 How to reach me: felipebalves26@gmail.com
